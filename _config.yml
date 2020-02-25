@@ -12,10 +12,10 @@ baseurl: ""         # 例如, '/blog' 如果你的博客的路径是'host/blog'�
 
 # SNS settings 就是关于我下面的图标，不需要注释即可~需要就填自己的用户名
 RSS: false
-csdn_username: wf632856695
+# csdn_username: wf632856695
 #weibo_username:     flyzy2005
 #zhihu_username:     flyzy2005
-github_username:    flyzy2005
+github_username:   Rrambler-Skywalker
 #twitter_username:  flyzy2005
 #facebook_username:  flyzy2005
 
